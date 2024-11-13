@@ -43,10 +43,6 @@ The lab is organized into different components, each serving a specific purpose:
 ### Step 5: Testing and Experimentation
 - Use tools like **Nmap** for network scanning, **Metasploit** for exploitation, and **Wireshark** for traffic analysis.
 
-## 📊 Network Diagram
-(You can add an image here if you create a diagram using tools like Lucidchart, Draw.io, or Visio)
-![Network Diagram](network-diagram.png)
-
 ## 🚀 Next Steps
 - Set up advanced monitoring with honeypots.
 - Explore cloud integration for scalability.
